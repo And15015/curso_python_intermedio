@@ -1,0 +1,4 @@
+.env/
+proyecto_ejemplo/
+venv*
+.DS_Store
